@@ -11,7 +11,7 @@ title: About
 
 Ich bin Ole...
 
-Ich würde mir ganz stark das Attribut einer ausgeprägten Neugierde zuschreiben, weshalb eine Person aus meinen Umfeld mich wohl auch gerne als "Neugiernase[^1]" bezeichnet. Diese Neugier zeichnet sich verstärkt als Wissbegierde gegenüber Gegenständen und Systemen aus. Menschen interessieren mich wenig. Dagegen habe ich allerdings eine wohl undurchschnittliche Sensationsgierde, d.h. typische Sensationen, wie sie durch die großen Nachrichtenargenturen ausgestrahlt werden, interessieren mich meist überhaupt nicht.[^2]
+Ich würde mir das Attribut einer ausgeprägten Neugierde zuschreiben, weshalb eine Person aus meinen Umfeld mich wohl auch gerne als "Neugiernase[^1]" bezeichnet. Diese Neugier zeichnet sich verstärkt als Wissbegierde gegenüber Gegenständen und Systemen aus. Menschen interessieren mich wenig. Zudem habe ich eine wohl undurchschnittliche Sensationsgierde, d.h. typische Sensationen, wie sie durch die großen Nachrichtenargenturen ausgestrahlt werden, interessieren mich meist überhaupt nicht.[^2]
 
 Vermutlich findest du, der Leser, dich in dieser Beschreibung zumindest ein wenig wieder. Zumindest würde ich das erwarten, denn ich schreibe diesen Blog so, als würde ich ihn für mich selbst schreiben. 
 

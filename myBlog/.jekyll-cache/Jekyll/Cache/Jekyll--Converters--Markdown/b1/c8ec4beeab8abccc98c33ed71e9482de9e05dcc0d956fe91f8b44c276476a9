@@ -1,0 +1,38 @@
+I"�<div class="message">
+  Man könnte diese Seite wohl auch <i>Über</i> nennen, aber das wäre nicht so verständlich wie <i>about</i>. <i>Über mich</i> wäre wohl verständlicher, allerdings würde es den Inhalt dieser Seite kleinreden, denn es geht hier nicht nur um mich.
+</div>
+
+<h2 id="about-me--you">About Me &amp; You</h2>
+
+<p>Ich bin Ole…</p>
+
+<p>Ich würde mir das Attribut einer ausgeprägten Neugierde zuschreiben, weshalb eine Person aus meinen Umfeld mich wohl auch gerne als “Neugiernase<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>” bezeichnet. Diese Neugier zeichnet sich verstärkt als Wissbegierde gegenüber Gegenständen und Systemen aus. Menschen interessieren mich wenig. Dagegen habe ich allerdings eine wohl undurchschnittliche Sensationsgierde, d.h. typische Sensationen, wie sie durch die großen Nachrichtenargenturen ausgestrahlt werden, interessieren mich meist überhaupt nicht.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
+
+<p>Vermutlich findest du, der Leser, dich in dieser Beschreibung zumindest ein wenig wieder. Zumindest würde ich das erwarten, denn ich schreibe diesen Blog so, als würde ich ihn für mich selbst schreiben.</p>
+
+<p>Ich bin froh, mir jetzt ein <em>Zuhause im Internet</em> gebaut zu haben.</p>
+
+<h2 id="setup">Setup</h2>
+
+<p>Das Wort <em>about</em> hat, wie gesagt, den Vorteil, dass es nicht ganz definiert <em>über</em> was genau gesprochen wird. Also will ich hier auch noch <em>über</em> die technische Umsetzung dieses Blogs reden:</p>
+
+<ul>
+  <li>Der Blog nutzt den Static Site Generator <a href="https://jekyllrb.com/">Jekyll</a>, um aus einigen <a href="https://de.wikipedia.org/wiki/Markdown">Markdown-</a>, <a href="https://de.wikipedia.org/wiki/Hypertext_Markup_Language">HTML-</a> und <a href="https://de.wikipedia.org/wiki/Cascading_Style_Sheets">CSS-</a> Dateien eine zusammengehörige statische Website zu bauen.</li>
+  <li>Gehostet wird der Blog kostenlos mit <a href="https://pages.github.com/">GitHub Pages</a>.</li>
+  <li>Der Blog nutzt ein von mir modifizierte Version des Themes <a href="https://hyde.getpoole.com/">Hyde</a>, das sich speziell durch seine Sidebar auszeichnet und selbst wiederum auf dem Theme <a href="https://demo.getpoole.com/">Poole</a> aufbaut. Meine Modifikationen sind primär farblicher Natur: Ich habe den Blog einfach in einen ständigen Dark Mode versetzt.</li>
+  <li>Die Referenzen zu <em>Der seltsame Fall des Dr. Jekyll und Mr. Hyde</em> sind absolut gewollt.</li>
+</ul>
+
+<hr />
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Zu der Frage, ob ich selbst die “Neugiernase” bin oder ob ich bloß eine “Neugiernase” habe, lautete die Antwort jener Person: Beides. Man könnte also wohl sagen, dass ich eine “Neugiernase mit Neugiernase” bin. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Allerdings halte ich so manche Kriminialfälle hin und wieder für durchaus interessant. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
