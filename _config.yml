@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            'Oles Neugier- Tagebuch'
+description:      'Ein Blog spezialisiert auf das, was dich und mich interessiert und neugierig macht.'
+url:              
+baseurl:          /
+
+author:
+  name:           'Ole'
+
+
+
+# Custom vars
+
+github:
+  repo:           https://github.com/poole/hyde
