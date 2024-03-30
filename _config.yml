@@ -5,8 +5,8 @@ permalink:        pretty
 # Setup
 title:            'Oles Neugier- Tagebuch'
 description:      'Ein Blog spezialisiert auf das, was dich und mich interessiert und neugierig macht.'
-url:              https://speedynurbesser.github.io/myBlog/
-baseurl:          /
+url:              https://speedynurbesser.github.io
+baseurl:          myBlog
 
 author:
   name:           'Ole'
