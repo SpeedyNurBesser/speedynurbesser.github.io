@@ -6,7 +6,7 @@ permalink:        pretty
 title:            'Oles Neugier- Tagebuch'
 description:      'Ein Blog spezialisiert auf das, was dich und mich interessiert und neugierig macht.'
 url:              
-baseurl:          /
+baseurl:          myBlog/
 
 author:
   name:           'Ole'
@@ -16,4 +16,4 @@ author:
 # Custom vars
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/SpeedyNurBesser/myBlog
