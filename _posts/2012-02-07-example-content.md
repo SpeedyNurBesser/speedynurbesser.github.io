@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Ole
 title: Example content
 ---
 
