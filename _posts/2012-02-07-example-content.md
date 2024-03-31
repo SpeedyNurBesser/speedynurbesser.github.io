@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Ole
+author: <a href="https://github.com/mdo">@mdo</a>
 title: Example content
 ---
 
