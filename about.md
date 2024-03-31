@@ -25,6 +25,7 @@ Das Wort *about* hat, wie gesagt, den Vorteil, dass es nicht ganz definiert *üb
 - Gehostet wird der Blog kostenlos mit [GitHub Pages](https://pages.github.com/).
 - Der Blog nutzt ein von mir modifizierte Version des Themes [Hyde](https://hyde.getpoole.com/), das selbst wiederum auf dem *Jekyll Butler* [Poole](https://demo.getpoole.com/) aufbaut. Meine Modifikationen sind primär farblicher Natur: Ich habe den Blog unter anderem in einen ständigen Dark Mode versetzt.
 - Die Referenzen zu *Der seltsame Fall des Dr. Jekyll und Mr. Hyde* sind absolut gewollt.
+- Für die Kommentarspalte nutzt der Blog [Utterances](https://utteranc.es/) mit dem *Photon Dark Theme*. Es ermöglicht die Nutzung von [GitHub Issues](https://docs.github.com/en/issues) als Kommentare. Dafür benötigt die kommentierende Person allerdings einen Account bei [GitHub](https://github.com/).
 
 ---
 
