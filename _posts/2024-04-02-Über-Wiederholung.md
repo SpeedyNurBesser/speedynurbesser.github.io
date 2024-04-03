@@ -57,7 +57,7 @@ Eine interessante Form dieser Erklärung zum Selbstlernen, auf die ich zuletzt g
 
 P.S.:
 
-Im Falle, dass es bis jetzt noch nicht klar geworden ist: Wenn ich von Wiederholung spreche, meine ich keine Plagiate, d.h. man sollte, wenn man etwas wiederholt niemandes Werk kopieren. Mit "Wiederholung" meine ich eine wiederholte Darlegung der Fakten, denn: Niemandem gehören die Fakten. 
+Im Falle, dass es bis jetzt noch nicht klar geworden ist: Wenn ich von Wiederholung spreche, meine ich keine Plagiate, d.h. man sollte, wenn man etwas wiederholt, niemandes Werk kopieren. Mit "Wiederholung" meine ich eine wiederholte Darlegung der Fakten, denn: Niemandem gehören die Fakten. 
 
 --- 
 

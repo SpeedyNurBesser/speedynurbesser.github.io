@@ -21,13 +21,15 @@ Ich bin froh, mir jetzt ein *Zuhause im Internet* gebaut zu haben.
 
 Das Wort *about* hat, wie gesagt, den Vorteil, dass es nicht ganz definiert *über* was genau gesprochen wird. Also will ich hier auch noch *über* die technische Umsetzung dieses Blogs reden:
 
-- Der Blog nutzt den Static Site Generator [Jekyll](https://jekyllrb.com/), um aus einigen [Markdown-](https://de.wikipedia.org/wiki/Markdown), [HTML-](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) und [CSS-](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) Dateien eine zusammengehörige statische Website zu bauen.
+- Der Blog nutzt den Static Site Generator [Jekyll](https://jekyllrb.com/)[^3], um aus einigen [Markdown-](https://de.wikipedia.org/wiki/Markdown), [HTML-](https://de.wikipedia.org/wiki/Hypertext_Markup_Language) und [CSS-](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) Dateien eine zusammengehörige statische Website zu bauen.
+- Um Jekyll zu nutzen, benötigt man im Vohinein übrigens die Programmiersprache [Ruby](https://www.ruby-lang.org/de/). Zudem will man wohl ein passendes Terminal haben (unter Windows beispielsweise [Powershell](https://learn.microsoft.com/de-de/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4) (nicht die Windows Powershell))
 - Gehostet wird der Blog kostenlos mit [GitHub Pages](https://pages.github.com/).
-- Der Blog nutzt ein von mir modifizierte Version des Themes [Hyde](https://hyde.getpoole.com/), das selbst wiederum auf dem *Jekyll Butler* [Poole](https://demo.getpoole.com/) aufbaut. Meine Modifikationen sind primär farblicher Natur: Ich habe den Blog unter anderem in einen ständigen Dark Mode versetzt.
-- Die Referenzen zu *Der seltsame Fall des Dr. Jekyll und Mr. Hyde* sind absolut gewollt.
-- Für die Kommentarspalte nutzt der Blog [Utterances](https://utteranc.es/) mit dem *Photon Dark Theme*. Es ermöglicht die Nutzung von [GitHub Issues](https://docs.github.com/en/issues) als Kommentare. Dafür benötigt die kommentierende Person allerdings einen Account bei [GitHub](https://github.com/).
+- Der Blog nutzt ein von mir modifizierte Version des Themes [Hyde](https://hyde.getpoole.com/)[^3], das selbst wiederum auf dem *Jekyll Butler* [Poole](https://demo.getpoole.com/)[^3] aufbaut. Meine Modifikationen sind primär farblicher Natur: Ich habe den Blog unter anderem in einen ständigen Dark Mode versetzt.
+- Bearbeitet wurde der Quellcode in [Visual Studio Code](https://code.visualstudio.com/) mit dem Theme *Sublime Monokai* unter laufender Musik von unter anderem [Zoë Keating](https://www.zoekeating.com/).
+- Für die Kommentarspalte nutzt der Blog [Utterances](https://utteranc.es/) mit dem *Photon Dark Theme*. Es ermöglicht die Nutzung von [GitHub Issues](https://docs.github.com/en/issues) als Kommentare. Dafür benötigt die kommentierende Person allerdings eben einen Account bei [GitHub](https://github.com/).
 
 ---
 
 [^1]: Zu der Frage, ob ich selbst die "Neugiernase" bin oder ob ich bloß eine "Neugiernase" habe, lautete die Antwort jener Person: Beides. Man könnte also wohl sagen, dass ich eine "Neugiernase mit Neugiernase" bin.
 [^2]: Ich sage *meist*, denn so manche Kriminialfälle halte ich hin und wieder für durchaus interessant.
+[^3]: Die Referenzen zu *Der seltsame Fall des Dr. Jekyll und Mr. Hyde* sind absolut gewollt.
