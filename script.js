@@ -198,7 +198,7 @@ function startGame() {
     "animatedImage",
     function () {
       resetPlayerPosition();
-      window.open("https://speedynurbesser.github.io/blog/");
+      window.open("https://speedynurbesser.github.io/blog/", "_self");
     },
     {
       idle: [
@@ -278,7 +278,7 @@ function startGame() {
     "image",
     function () {
       resetPlayerPosition();
-      window.open("https://ole370.substack.com");
+      window.open("https://ole370.substack.com", "_self");
     }
   );
   obstacles.push(weekReport);
