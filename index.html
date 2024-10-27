@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ole370</title>
+    <style>
+      canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+    </style>
+  </head>
+  <body onload="startGame()" style="overflow: hidden">
+    <script src="assets.js"></script>
+    <script src="script.js"></script>
+    <img
+      src="Assets/colorPaletteCredit.png"
+      style="position: absolute; bottom: 5px; left: 5px; cursor: pointer"
+      onclick="{setTimeout(resetPlayerPosition, 10); window.open('https://lospec.com/palette-list/lost-century');}"
+    />
+  </body>
+</html>
