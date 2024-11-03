@@ -344,7 +344,7 @@ function startGame() {
     projectsBorderDistanceY,
     "image",
     function () {
-      alert("PROJECTS?!");
+      window.open("https://speedynurbesser.github.io/projects", "_self");
       resetPlayerPosition();
     }
   );
